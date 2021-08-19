@@ -1,0 +1,535 @@
+.formularios {
+	FONT: 9pt Verdana, Arial, Helvetica, sans-serif
+}
+.letrapeq {
+	FONT: 9pt Verdana, Arial, Helvetica, sans-serif
+}
+.general {
+	FONT-SIZE: 9pt; 
+	COLOR: #ffffff; 
+	FONT-FAMILY: verdana, san-serif, monospace
+}
+.cabecera {
+	FONT-SIZE: 9pt; 
+	COLOR: #ffffff; 
+	FONT-FAMILY: verdana, san-serif, monospace; 
+	BACKGROUND-COLOR: #adc1d6
+}
+.fecha {
+	FONT-SIZE: 9pt; COLOR: #ffffff; 
+	FONT-FAMILY: verdana, san-serif, monospace; 
+	BACKGROUND-COLOR: #08421b
+}
+.botontitu {
+	BORDER-RIGHT: #2fad59 0px groove; 
+	BORDER-TOP: #2fad59 1px groove; 
+	FONT-SIZE: 9pt; 
+	BORDER-LEFT: #2fad59 0px groove; 
+	COLOR: #0c4820; 
+	BORDER-BOTTOM: #2fad59 1px groove; 
+	FONT-FAMILY: verdana, san-serif, monospace
+}
+.titulos {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #0a5618; FONT-FAMILY: arial, san-serif, monospace
+}
+.destacados {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #4d7399; FONT-FAMILY: arial, san-serif, monospace; TEXT-ALIGN: left
+}
+.destactitu {
+	BORDER-RIGHT: #adc1d6 1px solid; BORDER-TOP: #adc1d6 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 9pt; BORDER-LEFT: #adc1d6 1px solid; COLOR: #000000; BORDER-BOTTOM: #adc1d6 1px solid; FONT-FAMILY: verdana, san-serif, monospace; BACKGROUND-COLOR: #adc1d6
+}
+.celdasdest {
+	BACKGROUND-COLOR: #fdeab4
+}
+.separaciones {
+	BORDER-RIGHT: #066e29 1px solid; BORDER-TOP: #066e29 0px solid; BORDER-LEFT: #066e29 0px solid; BORDER-BOTTOM: #066e29 0px solid
+}
+.noticias {
+	BORDER-RIGHT: #4d7399 0px solid; BORDER-TOP: #4d7399 0px solid; FONT-WEIGHT: bold; FONT-SIZE: 9pt; BORDER-LEFT: #4d7399 0px solid; COLOR: #4d7399; BORDER-BOTTOM: #4d7399 1px solid; FONT-FAMILY: arial, san-serif, monospace; TEXT-DECORATION: none
+}
+.unico {
+	BORDER-RIGHT: #4d7399 1px double; BORDER-TOP: #4d7399 1px double; FONT-SIZE: 9pt; BORDER-LEFT: #4d7399 1px double; COLOR: #4d7399; BORDER-BOTTOM: #4d7399 1px double; FONT-FAMILY: arial, san-serif, monospace; BACKGROUND-COLOR: #ffffff
+}
+.noticiaspag {
+	BORDER-RIGHT: #4d7399 0px solid; BORDER-TOP: #4d7399 0px solid; FONT-WEIGHT: bold; FONT-SIZE: 9pt; BORDER-LEFT: #4d7399 0px solid; COLOR: #4d7399; BORDER-BOTTOM: #4d7399 1px solid; FONT-FAMILY: arial, san-serif, monospace
+}
+.ofertas {
+	BORDER-RIGHT: #dc8804 1px double; BORDER-TOP: #dc8804 1px double; FONT-SIZE: 9pt; BORDER-LEFT: #dc8804 1px double; COLOR: #606090; BORDER-BOTTOM: #dc8804 1px double; FONT-FAMILY: arial, san-serif, monospace; BACKGROUND-COLOR: #c5dc99; TEXT-DECORATION: underline
+}
+.ofertastitu {
+	FONT-SIZE: 9pt; COLOR: #4d7399; FONT-FAMILY: arial, san-serif, monospace; TEXT-DECORATION: none
+}
+.secciones {
+	BORDER-RIGHT: #adc1d6 1px solid; BORDER-TOP: #adc1d6 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #adc1d6 1px solid; COLOR: #4d7399; BORDER-BOTTOM: #adc1d6 1px solid; FONT-FAMILY: verdana, san-serif, monospace
+}
+.secciontitu {
+	BORDER-RIGHT: #adc1d6 1px solid; BORDER-TOP: #adc1d6 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #adc1d6 1px solid; COLOR: #000000; BORDER-BOTTOM: #adc1d6 1px solid; FONT-FAMILY: verdana, san-serif, monospace; BACKGROUND-COLOR: #adc1d6
+}
+.menuizda {
+	BORDER-RIGHT: #eeeeee 1px solid; BORDER-TOP: #eeeeee 0px solid; FONT-WEIGHT: bold; FONT-SIZE: 9pt; BORDER-LEFT: #eeeeee 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #eeeeee 1px solid; FONT-FAMILY: verdana, san-serif, monospace
+}
+.izdatitu {
+	BORDER-RIGHT: #eeeeee 1px solid; BORDER-TOP: #eeeeee 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 9pt; BORDER-LEFT: #eeeeee 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #eeeeee 1px solid; FONT-FAMILY: verdana, san-serif, monospace; BACKGROUND-COLOR: #E85B20
+}
+.caja {
+	BORDER-RIGHT: #9d9dbd 1px solid; BORDER-TOP: #9d9dbd 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #9d9dbd 1px solid; COLOR: #9d9dbd; BORDER-BOTTOM: #9d9dbd 1px solid; FONT-FAMILY: verdana, san-serif, monospace
+}
+.guias {
+	FONT-SIZE: 9pt; COLOR: #606090; FONT-FAMILY: verdana, san-serif, monospace
+}
+.fondocentro {
+	BORDER-RIGHT: #fcd95e 1px solid; 
+	BORDER-TOP: #fcd95e 0px solid; 
+	BORDER-LEFT: #fcd95e 1px solid; 
+	BORDER-BOTTOM: #fcd95e 0px solid
+}
+.fondo {
+	BACKGROUND-COLOR: #fde592
+}
+.seccionesfondo {
+	BORDER-RIGHT: #606090 1px solid; 
+	BORDER-TOP: #606090 1px solid; 
+	FONT-SIZE: 9pt; 
+	BORDER-LEFT: #606090 1px solid; 
+	COLOR: #606090; 
+	BORDER-BOTTOM: #606090 1px solid; 
+	FONT-FAMILY: verdana, san-serif, monospace; 
+	BACKGROUND-COLOR: #ffffff
+}
+.fondonaranj {
+	BORDER-RIGHT: #adc1d6 1px solid; 
+	BORDER-TOP: #adc1d6 0px solid; 
+	BORDER-LEFT: #adc1d6 1px solid; 
+	BORDER-BOTTOM: #adc1d6 0px solid
+}
+.otrofondo {
+	BACKGROUND-COLOR: #adc1d6
+}
+.pie {
+	FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: verdana, san-serif, monospace; BACKGROUND-COLOR: #08421b
+}
+.secciontituverde {
+	BORDER-RIGHT: #9d9dbd 1px solid; BORDER-TOP: #9d9dbd 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #9d9dbd 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #9d9dbd 1px solid; FONT-FAMILY: verdana, san-serif, monospace; BACKGROUND-COLOR: #9d9dbd
+}
+.verdes {
+	FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: arial, san-serif, monospace; TEXT-DECORATION: none
+}
+.tituverde {
+	BORDER-RIGHT: #9d9dbd 1px solid; BORDER-TOP: #9d9dbd 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #9d9dbd 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #9d9dbd 1px solid; FONT-FAMILY: verdana, san-serif, monospace
+}
+.marronsecc {
+	FONT-SIZE: 9pt; COLOR: #606090; FONT-FAMILY: arial, san-serif, monospace
+}
+A.menizd:hover {
+	COLOR: #ffffff; BACKGROUND-COLOR: #FF9900
+}
+A.menizd {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: verdana, san-serif, monospace; TEXT-DECORATION: none
+}
+A.mendcha:hover {
+	FONT-WEIGHT: bold; COLOR: #ffffff
+}
+A.mendcha {
+	FONT-SIZE: 9pt; COLOR: #606090; FONT-FAMILY: verdana, san-serif, monospace; TEXT-DECORATION: none
+}
+.titucuad {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #606090; FONT-FAMILY: arial, san-serif, monospace; TEXT-DECORATION: none
+}
+A.notic {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #606090; FONT-FAMILY: arial, san-serif, monospace; TEXT-DECORATION: none
+}
+.marrones {
+	FONT-SIZE: 9pt; COLOR: #606090; FONT-FAMILY: arial, san-serif, monospace; TEXT-DECORATION: underline
+}
+A.marron {
+	FONT-SIZE: 9pt; COLOR: #606090; FONT-FAMILY: arial, san-serif, monospace; TEXT-DECORATION: underline
+}
+A.unic {
+	FONT-SIZE: 9pt; COLOR: #606090; FONT-FAMILY: arial, san-serif, monospace; TEXT-DECORATION: none
+}
+A.separac {
+	FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: verdana, san-serif, monospace
+}
+A.ofert {
+	FONT-SIZE: 9pt; COLOR: #606090; FONT-FAMILY: arial, san-serif, monospace; TEXT-DECORATION: underline
+}
+A.destac {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #606090; FONT-FAMILY: arial, san-serif, monospace; TEXT-ALIGN: justify; TEXT-DECORATION: none
+}
+A.destacnorm {
+	FONT-SIZE: 9pt; COLOR: #606090; FONT-FAMILY: arial, san-serif, monospace; TEXT-ALIGN: justify; TEXT-DECORATION: none
+}
+A.titu {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #606090; FONT-FAMILY: arial, san-serif, monospace; TEXT-DECORATION: none
+}
+A.copy {
+	FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: arial, san-serif, monospace; TEXT-DECORATION: none
+}
+A.ofertitu {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: arial, san-serif, monospace; TEXT-DECORATION: none
+}
+A.busca {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #cccccc; FONT-FAMILY: verdana, san-serif, monospace; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.comunidades {
+	BORDER-RIGHT: #42701a 1px solid; BORDER-TOP: #42701a 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #42701a 1px solid; WIDTH: 150px; COLOR: #42701a; BORDER-BOTTOM: #42701a 1px solid; FONT-FAMILY: verdana, san-serif, monospace; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.tablatitu {
+	BORDER-RIGHT: #fcf09b 1px solid; BORDER-TOP: #fcf09b 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 9pt; BORDER-LEFT: #fcf09b 1px solid; COLOR: #606090; BORDER-BOTTOM: #fcf09b 1px solid; FONT-FAMILY: arial, san-serif, monospace; BACKGROUND-COLOR: #fcd95e; TEXT-ALIGN: center
+}
+.comuntitu {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: arial, san-serif, monospace; TEXT-DECORATION: none
+}
+.comun {
+	COLOR: #606090; FO: 9pt Verdana, Arial, Helvetica, sans-serif
+}
+.letrapeq {
+	FONT: 9pt Verdana, Arial, Helvetica, sans-serif
+}
+.general {
+	FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: verdana, san-serif, monospace
+}
+.cabecera {
+	FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: verdana, san-serif, monospace; BACKGROUND-COLOR: #adc1d6
+}
+.fecha {
+	FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: verdana, san-serif, monospace; BACKGROUND-COLOR: #08421b
+}
+.botontitu {
+	BORDER-RIGHT: #2fad59 0px groove; BORDER-TOP: #2fad59 1px groove; FONT-SIZE: 9pt; BORDER-LEFT: #2fad59 0px groove; COLOR: #0c4820; BORDER-BOTTOM: #2fad59 1px groove; FONT-FAMILY: verdana, san-serif, monospace
+}
+.titulos {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #0a5618; FONT-FAMILY: arial, san-serif, monospace
+}
+.destacados {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #4d7399; FONT-FAMILY: arial, san-serif, monospace; TEXT-ALIGN: left
+}
+.destactitu {
+	BORDER-RIGHT: #adc1d6 1px solid; BORDER-TOP: #adc1d6 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 9pt; BORDER-LEFT: #adc1d6 1px solid; COLOR: #000000; BORDER-BOTTOM: #adc1d6 1px solid; FONT-FAMILY: verdana, san-serif, monospace; BACKGROUND-COLOR: #adc1d6
+}
+.celdasdest {
+	BACKGROUND-COLOR: #fdeab4
+}
+.separaciones {
+	BORDER-RIGHT: #066e29 1px solid; BORDER-TOP: #066e29 0px solid; BORDER-LEFT: #066e29 0px solid; BORDER-BOTTOM: #066e29 0px solid
+}
+.normal {
+	FONT-WEIGHT: normal; FONT-SIZE: 9pt; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.izdatitu2 {
+
+	BORDER-RIGHT: #eeeeee 1px solid; BORDER-TOP: #eeeeee 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 9pt; BORDER-LEFT: #eeeeee 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #eeeeee 1px solid; FONT-FAMILY: verdana, san-serif, monospace; BACKGROUND-COLOR: #990000
+}
+
+A.menaccrap:hover {
+
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: verdana, san-serif, monospace; TEXT-DECORATION: none
+}
+A.menaccrap {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: verdana, san-serif, monospace; TEXT-DECORATION: none
+}
+ 
+td.page-title {
+    text-align: center;
+    vertical-align: top;
+    font-family:verdana,sans-serif;
+    font-weight: bold;
+    background: white;
+    color: black;
+  }
+td.title {
+    text-align: left;
+    vertical-align: top;
+    font-family:verdana,sans-serif;
+    font-style:italic;
+    font-weight: bold;
+    background: #D2A41C;
+  }
+td.header-left {
+    text-align: left;
+    vertical-align: top;
+    font-family:verdana,sans-serif;
+    font-weight: bold;
+    background: #FFDC75;
+  }
+td.header-center {
+    text-align: center;
+    vertical-align: top;
+    font-family:verdana,sans-serif;
+    font-weight: bold;
+    background: #FFDC75;
+  }
+td.titulo-center {
+	text-align: center;
+	vertical-align: top;
+	font-family:verdana,sans-serif;
+	font-weight: bold;
+	background: #FFFFFF;
+ }
+ td.titulo2-center {
+	text-align: center;
+	vertical-align: top;
+	font-family:verdana,sans-serif;
+	font-weight: bold;
+	font-size: 12pt;
+	background: #FFFFFF;
+ }
+td.titulo-themecenter {
+
+	BORDER-RIGHT: #417c2a 0px solid; 
+	BORDER-TOP: #417c2a 0px solid; 
+	BACKGROUND-IMAGE: url(../Images/gradient.jpg); 
+	BORDER-LEFT: #417c2a 0px solid; 
+	BORDER-BOTTOM: #417c2a 0px solid;
+	text-align: center;
+    vertical-align: top;
+    font-family:verdana,sans-serif;
+    font-weight: bold;
+	moz-border-radius: 0px; 
+}
+td.header-themecenter {
+    text-align: center;
+    vertical-align: top;
+    font-family:verdana,sans-serif;
+    font-style:Italic;
+	font-weight: bold;
+    background: #EFEFEF;	
+  }
+
+
+td.comentario-center {
+    text-align: center;
+    vertical-align: top;
+    font-family:verdana,sans-serif;
+    font-style:italic;
+	font-size: 9pt;
+    background: #FFFFFF;
+	}
+	
+table { width=100%}
+
+td.row-left {
+    text-align: left;
+    vertical-align: middle;
+    font-family:verdana,sans-serif;
+    color: black;
+    background: white;
+  }
+td.row-center {
+    text-align: center;
+    vertical-align: middle;
+    font-family:verdana,sans-serif;
+    color: black;
+	font-weight: bold;
+    background: #EFEFEF;
+  }
+td.row-right {
+    text-align: right;
+    vertical-align: middle;
+    font-family:verdana,sans-serif;
+    color: black;
+    background: white;
+  }
+td.barnav-left {
+	text-align:left;
+	BORDER-RIGHT: #999999 1px solid; 
+	BORDER-TOP: #999999 0px solid; 
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 9pt; 
+	BORDER-LEFT: #999999 1px solid; 
+	COLOR:RED; 
+	BORDER-BOTTOM: #999999 0px solid; 
+	FONT-FAMILY: verdana, san-serif, monospace;
+	background: WHITE;
+}
+
+td.barnav-left-top {
+	background-color: #98AAB1; 
+	font-weight: normal;
+	height: 1px;
+}
+
+td.barnav-top {
+	text-align:left;
+	BORDER-RIGHT: #999999 0px solid; 
+	BORDER-TOP: #999999 1px solid; 
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 9pt; 
+	BORDER-LEFT: #999999 0px solid; 
+	COLOR:RED; 
+	BORDER-BOTTOM: #999999 0px solid; 
+	FONT-FAMILY: verdana, san-serif, monospace;
+	background: #464F88;
+}
+/*td.barnav-title {
+	text-align: center;
+	BORDER-RIGHT: #999999 0px solid; 
+	BORDER-TOP: #999999 1px solid; 
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 9pt; 
+	BORDER-LEFT: #999999 0px solid; 
+	COLOR: #0066CC; 
+	BORDER-BOTTOM: #999999 0px solid; 
+	FONT-FAMILY: verdana, san-serif, monospace;
+	background: #EBEDF6;
+}*/
+td.barnav-title {
+		BORDER-RIGHT: #417c2a 0px solid; 
+	BORDER-TOP: #417c2a 0px solid; 
+	BACKGROUND-IMAGE: url(http://172.16.6.91/gradient.jpg); 
+	BORDER-LEFT: #417c2a 0px solid; 
+	BORDER-BOTTOM: #417c2a 0px solid; 
+	moz-border-radius: 0px
+}
+
+td.barnav-title {
+	text-align: center;
+	BORDER-RIGHT: #417c2a 0px solid; 
+	BORDER-TOP: #417c2a 0px solid; 
+	BACKGROUND-IMAGE: url(../Images/gradient.jpg); 
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 9pt; 
+	BORDER-LEFT: #417c2a 0px solid; 
+	BORDER-BOTTOM: #417c2a 0px solid; 
+	moz-border-radius: 0px 
+	COLOR: #ffffff; 
+	BORDER-BOTTOM: #999999 0px solid; 
+	FONT-FAMILY: verdana, san-serif, monospace;
+}
+.navbar-over:hover {
+	/*WIDTH: 100%; */
+	COLOR: WHITE; 
+	BACKGROUND-COLOR: #FFA500;
+}
+.navbar-over {
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 9pt; 
+	COLOR: #464F88; 
+	FONT-FAMILY: verdana, san-serif, monospace; 
+	TEXT-DECORATION: none
+}
+.navbar-over2:hover {
+	/*WIDTH: 100%;*/ 
+	COLOR: WHITE; 
+	BACKGROUND-COLOR: #FFA500;
+}
+.navbar-over2 {
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 9pt; 
+	COLOR: white; 
+	FONT-FAMILY: verdana, san-serif, monospace; 
+	TEXT-DECORATION: none
+}
+.link-themecenter {
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 9pt;
+	COLOR: #828200;
+	FONT-FAMILY: verdana, san-serif, monospace;
+	text-decoration: none;
+	}
+.link-themecenter:hover {
+	WIDTH: 10; 
+	COLOR: #ffffff; 
+	BACKGROUND-COLOR: #DEAE21;
+	text-decoration: none;
+	}
+
+.tabla {
+	BORDER-RIGHT: #98AAB1 1px solid; 
+	BORDER-TOP: #98AAB1 1px solid; 
+	BORDER-LEFT: #98AAB1 1px solid; 
+	BORDER-BOTTOM: #98AAB1 1px solid;
+	FONT-SIZE: 9pt;	
+}
+
+/* CSS Document nuevo dirigido hacia la forma managecontent*/
+/* styles from stylesheet.css */
+.bodyline {
+	background-color: #FFFFFF;
+	border: 1px #98AAB1 solid;
+}
+/*cambiar ip servidor */
+td.row1, table.row1 { 
+	BORDER-RIGHT: #417c2a 0px solid; 
+	BORDER-TOP: #417c2a 0px solid; 
+	BACKGROUND-IMAGE: url(../Images/gradient.jpg); 
+	BORDER-LEFT: #417c2a 0px solid; 
+	BORDER-BOTTOM: #417c2a 0px solid; 
+	moz-border-radius: 0px
+}
+.saved {
+	background-color: #FFFDE0;
+	margin: 10px;
+	font-size:small;
+}
+/* main submit button */
+.button {
+	font-family: Verdana, Arial, Helvetica, sans-serif;	
+	background-color: #EBEDF6;
+	font-weight: bold;
+	border-top:  #354A81  solid 1px;
+	border-bottom: #354A81 solid 1px;
+	border-right: #354A81 solid 1px;
+	border-left: #354A81 solid 1px;	
+}
+/* small submit button at top */
+.button2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #F8F8F8;
+	font-size: 0.7em;
+	border-top:  #354A81  solid 1px;
+	border-bottom: #354A81  solid 1px;
+	border-right: #354A81  solid 1px;
+	border-left: #354A81  solid 1px;
+}
+td.row2 { 
+	background-color: #98AAB1; 
+	font-weight: normal;
+	height: 1px;
+}
+
+td.row3 { 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #EFEFEF;
+	vertical-align: top;	
+	border-right: 1px solid #98AAB1;
+}
+td.row4 {
+	BORDER-RIGHT: #417c2a 0px solid;
+	BORDER-TOP: #417c2a 0px solid;
+	BACKGROUND-IMAGE: url(../Images/gradient.jpg);
+	BORDER-LEFT: #417c2a 0px solid;
+	BORDER-BOTTOM: #417c2a 0px solid;
+	moz-border-radius: 0px;
+	color: #003366;
+	font-weight: bold;
+}
+.rightline{
+	border-right: 1px solid #98AAB1;
+}
+/* formfield attributes */
+.formfield {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: black;
+	border-top:  #003399  solid 1px;
+	border-bottom: #003399 solid 1px;
+	border-right: #003399 solid 1px;
+	border-left: #003399 solid 1px;
+}
+.formfieldR {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: black;
+	border-top:  #003399  solid 1px;
+	border-bottom: #003399 solid 1px;
+	border-right: #003399 solid 1px;
+	border-left: #003399 solid 1px;
+	text-align: right;
+}
+
+.bar-body {
+	font-family: Verdana, sans-serif, monospace;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #006699;
+}

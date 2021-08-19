@@ -1,0 +1,70 @@
+/* CSS Document */
+/* styles from stylesheet.css */
+.bodyline {
+	background-color: #FFFFFF;
+	border: 1px #98AAB1 solid;
+}
+td.row1, table.row1 { 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #EFEFEF;
+	vertical-align: top;	
+	padding: 3px;
+}
+.saved {
+	background-color: #FFFDE0;
+	margin: 10px;
+	font-size:small;
+}
+/* main submit button */
+.button {
+	font-family: Verdana, Arial, Helvetica, sans-serif;	
+	background-color: #EBEDF6;
+	font-weight: bold;
+	border-top:  #354A81  solid 1px;
+	border-bottom: #354A81 solid 1px;
+	border-right: #354A81 solid 1px;
+	border-left: #354A81 solid 1px;	
+}
+
+/* small submit button at top */
+.button2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #F8F8F8;
+	font-size: 0.7em;
+	border-top:  #354A81  solid 1px;
+	border-bottom: #354A81  solid 1px;
+	border-right: #354A81  solid 1px;
+	border-left: #354A81  solid 1px;
+}
+td.row2 { 
+	background-color: #98AAB1; 
+	font-weight: normal;
+	height: 1px;
+}
+.formfield {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: black;
+	border-top:  #003399  solid 1px;
+	border-bottom: #003399 solid 1px;
+	border-right: #003399 solid 1px;
+	border-left: #003399 solid 1px;
+}
+/* formfield attributes */
+.formfield {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: black;
+	border-top:  #003399  solid 1px;
+	border-bottom: #003399 solid 1px;
+	border-right: #003399 solid 1px;
+	border-left: #003399 solid 1px;
+}
+.formfieldR {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: black;
+	border-top:  #003399  solid 1px;
+	border-bottom: #003399 solid 1px;
+	border-right: #003399 solid 1px;
+	border-left: #003399 solid 1px;
+	text-align: right;
+}
